@@ -1,0 +1,50 @@
+h1 {
+	font-weight: bold;
+	padding: 0 10px;
+}
+
+.icon-bar {
+	border-color: black;
+}
+
+#header-nav {
+  background-color: lightgrey;
+  border-radius: 0;
+  border: 2px solid black;
+}
+
+#subheader {
+	text-align: center;
+	margin: 30px 0 40px;
+}
+
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: 000;
+  font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+}
+
+h2 {
+	font-weight: bold;
+}
+
+h3 {
+	text-align: center;
+	font-weight: bold;
+}
+
+#menu-tile {
+  height: auto;
+  background-color: lightgrey;
+  width: 98%;
+  margin: 0 auto 50px;
+  padding: 10px 20px 20px;
+  position: relative;
+  border: 2px solid black;
+  overflow: hidden;
+}
+
+.dropdown {
+	text-align: center;
+}
